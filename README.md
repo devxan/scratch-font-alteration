@@ -4,7 +4,7 @@ Code hosted for Scratch website userstyle that sets font to Fira Code. Works ext
 
 Gives the whole of the Scratch website an amazing monospace font called Fira Code, making your installation of [Scratch Addons](https://scratchaddons.com/) even better!
 
-Requires access to Google Fonts and only works on Scratch, but can work on other websites too. It's recommended to use this with the popular chrome extension/firefox addon [Scratch Addons](https://scratchaddons.com/)'s `Website dark mode and customizable colors` addons with the `Dark WWW` preset.
+Requires access to [Google Fonts](https://fonts.google.com/specimen/Fira+Code) and only works on Scratch, but can work on other websites too. It's recommended to use this with the popular chrome extension/firefox addon [Scratch Addons](https://scratchaddons.com/)'s `Website dark mode and customizable colors` addons with the `Dark WWW` preset. Thanks to Stack Overflow for teaching me [how to import Google Fonts into a stylus file](https://stackoverflow.com/questions/25411486/how-to-import-google-fonts-on-a-stylus-file), I hit a big brick wall in learning that [I couldn't use the installed font with Chrome](https://github.com/openstyles/stylus/issues/793). 
 
 ## Intallation Instructions
 
