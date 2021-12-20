@@ -15,3 +15,5 @@ Requires access to Google Fonts and only works on Scratch, but can work on other
     - Use `Dark WWW` preset
 - Go to [Scratch](https://scratch.mit.edu) and be happy.
   - Follow the [creator](https://scratch.mit.edu/users/-Xanimation-)
+
+[![Screenshot](https://raw.githubusercontent.com/devxan/scratch-font-alteration/main/scratch-font-alteration.jpg)](https://scratch.mit.edu/users/-Xanimation-)
