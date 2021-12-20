@@ -38,7 +38,7 @@ with the code under the header "CSS rules to specify families" on the Google Fon
     font-family: 'Fira Code', monospace;
 }
 ``` 
-But of course the mentions of the font I used are replaced with the font you use.
+But the url and title of the font I used is replaced with the font you use.
 
 ## Thanks
-I really hope this small userstyle and repository might inspire you to learn more about modding Scratch and other sites with CSS and JS. I am really bad at both, so you can probably get a lot better than me pretty fast.
+I really hope this small userstyle and repository might inspire you to learn more about modding Scratch and other sites with different languages. I am really bad at both, so you can probably get a lot better than me pretty fast.
