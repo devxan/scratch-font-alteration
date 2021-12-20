@@ -17,3 +17,6 @@ Requires access to [Google Fonts](https://fonts.google.com/specimen/Fira+Code) a
   - Follow the [creator](https://scratch.mit.edu/users/-Xanimation-)
 
 [![Screenshot](https://raw.githubusercontent.com/devxan/scratch-font-alteration/main/scratch-font-alteration.jpg)](https://scratch.mit.edu/users/-Xanimation-)
+
+## Scratch Browser Extension/Userscript/Userstyle Policy
+Browser extensions like Scratch Addons and Userstyles like the one mentioned above by @devxan are not allowed to be advertised on the Scratch website. This includes comments, within projects, and on the forums. You are still allowed to modify Scratch, but you aren't allowed to share with other Scratchers on the platform that you are doing so. More information about this policy is avialable [here](https://scratch.mit.edu/discuss/topic/284272).
